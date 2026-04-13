@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="fixed top-0 left-0 right-0 z-50 bg-navy-dark/95 backdrop-blur-md border-b border-gold/20">
       <div className="container mx-auto flex items-center justify-between py-4">
         <a href="#home" className="font-heading text-xl text-primary-foreground tracking-wide">
-          Adv. <span className="text-gold">Rajesh Sharma</span>
+          Adv. <span className="text-gold">Pooja Medtiya</span>
         </a>
 
         {/* Desktop */}

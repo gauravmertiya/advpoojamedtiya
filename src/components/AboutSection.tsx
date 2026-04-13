@@ -14,7 +14,7 @@ const AboutSection = () => (
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div className="relative">
           <div className="absolute -inset-4 bg-gold/10 rounded-lg -rotate-3" />
-          <img src={lawyerPortrait} alt="Advocate Rajesh Sharma" className="relative rounded-lg shadow-xl w-full max-w-md mx-auto object-cover aspect-[3/4]" loading="lazy" width={800} height={1024} />
+          <img src={lawyerPortrait} alt="Advocate Pooja Medtiya" className="relative rounded-lg shadow-xl w-full max-w-md mx-auto object-cover aspect-[3/4]" loading="lazy" width={800} height={1024} />
         </div>
 
         <div>
@@ -23,7 +23,7 @@ const AboutSection = () => (
             Committed to Justice
           </h2>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            Advocate Rajesh Sharma is a dedicated legal professional with over 15 years of experience practising in the High Court of Delhi and various District Courts across India. Specialising in Criminal, Family, and Corporate Law, he is known for his diligent case preparation and client-first approach.
+            Advocate Pooja Medtiya is a dedicated legal professional with over 15 years of experience practising in the High Court of Delhi and various District Courts across India. Specialising in Criminal, Family, and Corporate Law, he is known for his diligent case preparation and client-first approach.
           </p>
           <p className="text-muted-foreground leading-relaxed mb-8">
             Registered with the Bar Council of India (Reg. No. D/1234/2009), Adv. Sharma has consistently upheld the highest standards of legal ethics and professional conduct.

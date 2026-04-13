@@ -6,7 +6,7 @@ const Footer = () => (
       <div className="flex flex-col md:flex-row items-center justify-between gap-6">
         <div className="flex items-center gap-2">
           <Scale className="w-5 h-5 text-gold" />
-          <span className="font-heading text-primary-foreground">Adv. Rajesh Sharma</span>
+          <span className="font-heading text-primary-foreground">ADV. Pooja Medtiya</span>
         </div>
 
         <div className="flex gap-6 text-sm">
@@ -23,7 +23,7 @@ const Footer = () => (
           <strong>Disclaimer:</strong> This website is for informational purposes only and does not constitute legal advice or create an attorney-client relationship. The information provided should not be relied upon as a substitute for professional legal counsel. As per the rules of the Bar Council of India, advocates are not permitted to solicit work or advertise. This website is meant solely for the purpose of providing information about the advocate and his areas of practice.
         </p>
         <p className="text-primary-foreground/30 text-xs mt-4">
-          © {new Date().getFullYear()} Adv. Rajesh Sharma. All rights reserved.
+          © {new Date().getFullYear()} ADV. Pooja Medtiya. All rights reserved.
         </p>
       </div>
     </div>
