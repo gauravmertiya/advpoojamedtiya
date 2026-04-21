@@ -91,7 +91,7 @@ const ContactSection = () => {
 
             {/* WhatsApp */}
             <a
-              href={`https://wa.me/919876543210?text=${encodeURIComponent("Hello, I would like to book a consultation.")}`}
+              // href={`https://wa.me/919876543210?text=${encodeURIComponent("Hello, I would like to book a consultation.")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-3 p-4 rounded-xl bg-green-600/10 border border-green-500/20 hover:bg-green-600/20 transition-colors"
@@ -107,7 +107,7 @@ const ContactSection = () => {
             <div className="rounded-xl overflow-hidden border border-gold/10 h-48">
               <iframe
                 title="Office Location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.7476!2d77.2173!3d28.6692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd00!2sTis+Hazari+Courts!5e0!3m2!1sen!2sin!4v1"
+                // src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.7476!2d77.2173!3d28.6692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd00!2sTis+Hazari+Courts!5e0!3m2!1sen!2sin!4v1"
                 className="w-full h-full"
                 allowFullScreen
                 loading="lazy"
