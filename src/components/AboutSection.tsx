@@ -2,7 +2,7 @@ import { Award, BookOpen, Building, Scale } from "lucide-react";
 import lawyerPortrait from "@/assets/lawyer-portrait.jpg";
 
 const stats = [
-  { icon: Award, label: "Years of Experience", value: "15+" },
+  { icon: Award, label: "Years of Experience", value: "2+" },
   { icon: Scale, label: "Cases Handled", value: "2000+" },
   { icon: Building, label: "Courts Practiced", value: "High Court, District Court" },
   { icon: BookOpen, label: "Qualification", value: "LLB, LLM (Criminal Law)" },
